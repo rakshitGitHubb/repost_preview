@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+node_modules
+__pycache__/
+.ruff_cache/
+repost_preview/public/node_modules
+repost_preview/docs/current
